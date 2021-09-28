@@ -6,4 +6,4 @@
 
 ### react router fix
 
-(Fix)[https://soner-react-accordion.netlify.app]
+https://soner-react-accordion.netlify.app
