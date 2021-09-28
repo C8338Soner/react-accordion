@@ -4,6 +4,4 @@
 
 ![](./idea.png);
 
-### react router fix
-
 https://soner-react-accordion.netlify.app
